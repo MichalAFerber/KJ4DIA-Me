@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About
+## About
 
 I have been working with radios since my <a href="https://www.gocivilairpatrol.com/" target="_blank" rel="noopener">Civil Air Patrol</a> days back in 1991. I have always enjoyed technology and emergency communications. Used packet back in the CAP days. Currently enjoying D-STAR and DMR. Extensive background with Healthcare based Emergency Communications, working along side SC DHEC, SC EMD, SCHEART.
 
@@ -10,6 +10,7 @@ I have been working with radios since my <a href="https://www.gocivilairpatrol.c
 
 ## Documents
 
+*   [Certified Healthcare Emergency Professional Master Level (CHEP)](/documents/CHEP.pdf)
 *   [ARRL Membership](/documents/KJ4DIA_ARRL_Membership_Certificate.pdf)
 *   [FCC License](/documents/KJ4DIA.pdf)
 *   [IS-00100.HCb](/documents/IS-100.HCb.pdf)
@@ -37,13 +38,15 @@ I have been working with radios since my <a href="https://www.gocivilairpatrol.c
 
 ## Links
 
-*   [https://charlottedstar.org/](Charlotte D-Star Group)
-*   [https://www.dmr-marc.net/](DMR-MARC Worldwide Network)
-*   [https://www.w4ulh.net/](Florence Amateur Radio Club)
-*   [https://ne4sc.org/](NE4SC Repeater Group)
-*   [https://ncprn.net/](North Carolina PRN)
-*   [https://www.palsnet.com/](Palmetto Amateur Linked System Network)
-*   [https://ares-sc.org/](SC ARES)
-*   [https://scheart.us/](SCHEART)
-*   [https://www.scemd.org/](South Carolina Emergency Management Division)
-*   [https://ne4sc.dstargateway.org/](NE4SC DPLUS Dashboard)
+*   [Charlotte D-Star Group](https://charlottedstar.org/)
+*   [DMR-MARC Worldwide Network](https://www.dmr-marc.net/)
+*   [Florence Amateur Radio Club](https://www.w4ulh.net/)
+*   [NE4SC Repeater Group](https://ne4sc.org/)
+*   [NE4SC DPLUS Dashboard](https://ne4sc.dstargateway.org/)
+*   [North Carolina PRN](https://ncprn.net/)
+*   [Palmetto Amateur Linked System Network (PALS)](https://www.palsnet.com/)
+*   [SC ARES](https://ares-sc.org/)
+*   [SCHEART](https://scheart.us/)
+*   [South Carolina Emergency Management Division](https://www.scemd.org/)
+
+* * *
