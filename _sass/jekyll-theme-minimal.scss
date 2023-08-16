@@ -31,23 +31,12 @@ h2, h3, h4, h5, h6 {
 }
 
 a {
-  color:#8dc6ff;
+  color:#34495e;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  font-weight: bold;
-}
-
-a small {
-  font-size:11px;
-  color:#545454;
-  margin-top:-0.3em;
-  display:block;
-}
-
-a:hover small {
-  color:#545454;
+  text-decoration:underline;
 }
 
 .wrapper {
